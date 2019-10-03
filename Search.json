@@ -904,7 +904,6 @@
         "desc": "Perfektes Stat-Produkt für Dragoran"
     },
 
-    //GEN 2
     {
         "monId": 152,
         "ivAtk": "==:15",
@@ -1426,7 +1425,6 @@
         "desc": "Perfektes Stat-Produkt für Despotar"
     },
 
-    //Gen 3
     {
         "monId": 252,
         "ivAtk": "==:0",
@@ -1675,7 +1673,7 @@
         "ivDef": "==:15",
         "ivSta": "==:15",
         "cp": "<=:233",
-        "gender": "w",
+        "gender": "f",
         "desc": "Perfektes Stat-Produkt für Guardevoir"
     },
     {
@@ -1684,7 +1682,7 @@
         "ivDef": "==:15",
         "ivSta": "==:15",
         "cp": "<=:440",
-        "gender": "w",
+        "gender": "f",
         "desc": "Perfektes Stat-Produkt für Guardevoir"
     },
     {
@@ -2156,7 +2154,6 @@
         "desc": "Perfektes Stat-Produkt für Metagross"
     },
 
-    //GEN 4
     {
         "monId": 387,
         "ivAtk": "==:0",
@@ -2268,7 +2265,7 @@
         "ivSta": "==:15",
         "cp": "<=:1500",
         "form": "trash",
-        "gender": "w",
+        "gender": "f",
         "desc": "Perfektes Stat-Produkt für Lumpen-Burmadame"
     },
     {
@@ -2286,7 +2283,7 @@
         "ivDef": "==:14",
         "ivSta": "==:13",
         "cp": "<=:322",
-        "gender": "w",
+        "gender": "f",
         "desc": "Perfektes Stat-Produkt für Honweisel"
     },
     {
@@ -2713,7 +2710,7 @@
         "ivDef": "==:15",
         "ivSta": "==:15",
         "cp": "<=:613",
-        "gender": "w",
+        "gender": "f",
         "desc": "Perfektes Stat-Produkt für Frosdedje"
     },
     {
@@ -2734,7 +2731,6 @@
         "desc": "Perfektes Stat-Produkt für Normal-Rotom"
     },
 
-    //GEN 5
     {
         "monId": 496,
         "ivAtk": "==:0",
@@ -3377,7 +3373,6 @@
         "desc": "Perfektes Stat-Produkt für Trikephalo"
     },
 
-    //Breaking Points
     {
         "monId": 226,
         "ivAtk": "==:0",
@@ -3401,5 +3396,5 @@
         "ivSta": "==:11",
         "cp": "<=:1500",
         "desc": "BP: Bollterus schlägt Max-Produkt-Forstellka im 1S-Matchup vor dem EQ"
-    },
+    }
 ]
