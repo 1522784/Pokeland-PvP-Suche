@@ -816,6 +816,14 @@
         "desc": "Perfektes Stat-Produkt für Chaneira"
     },
     {
+        "monId": 113,
+        "ivAtk": "==:0",
+        "ivDef": "==:13",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Pantimos"
+    },
+    {
         "monId": 129,
         "ivAtk": "==:0",
         "ivDef": "==:14",
