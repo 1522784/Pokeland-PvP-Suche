@@ -6,6 +6,38 @@
         "ivSta": "==:14",
         "cp": "<=:950",
         "desc": "Perfektes Stat-Produkt für Bisaknosp"
+    },    
+    {
+        "monId": 1,
+        "ivAtk": "==:0",
+        "ivDef": "==:13",
+        "ivSta": "==:12",
+        "cp": "<=:950",
+        "desc": "Zweitbestes Stat-Produkt für Bisaknosp"
+    },
+    {
+        "monId": 1,
+        "ivAtk": "==:0",
+        "ivDef": "==:14",
+        "ivSta": "==:15",
+        "cp": "<=:950",
+        "desc": "Drittbestes Stat-Produkt für Bisaknosp"
+    },
+    {
+        "monId": 1,
+        "ivAtk": "==:0",
+        "ivDef": "==:14",
+        "ivSta": "==:13",
+        "cp": "<=:950",
+        "desc": "Viertbestes Stat-Produkt für Bisaknosp"
+    },    
+    {
+        "monId": 1,
+        "ivAtk": "==:0",
+        "ivDef": "==:14",
+        "ivSta": "==:11",
+        "cp": "<=:950",
+        "desc": "Fünftbeste Stat-Produkt für Bisaknosp"
     },
     {
         "monId": 2,
