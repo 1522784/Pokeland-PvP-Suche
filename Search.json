@@ -12,56 +12,8 @@
         "ivAtk": "==:0",
         "ivDef": "==:13",
         "ivSta": "==:14",
-        "cp": "<=:1500",
+        "cp": "<=:1498",
         "desc": "Perfektes Stat-Produkt für Bisaknosp"
-    },
-    {
-        "monId": 1,
-        "ivAtk": "==:0",
-        "ivDef": "==:13",
-        "ivSta": "==:12",
-        "cp": "<=:950",
-        "desc": "Zweitbestes Stat-Produkt für Bisaknosp"
-    },
-    {
-        "monId": 2,
-        "ivAtk": "==:0",
-        "ivDef": "==:13",
-        "ivSta": "==:12",
-        "cp": "<=:1500",
-        "desc": "Zweitbestes Stat-Produkt für Bisaknosp"
-    },
-    {
-        "monId": 1,
-        "ivAtk": "==:0",
-        "ivDef": "==:14",
-        "ivSta": "==:15",
-        "cp": "<=:950",
-        "desc": "Drittbestes Stat-Produkt für Bisaknosp"
-    },
-    {
-        "monId": 2,
-        "ivAtk": "==:0",
-        "ivDef": "==:14",
-        "ivSta": "==:15",
-        "cp": "<=:1500",
-        "desc": "Drittbestes Stat-Produkt für Bisaknosp"
-    },
-    {
-        "monId": 1,
-        "ivAtk": "==:0",
-        "ivDef": "==:14",
-        "ivSta": "==:13",
-        "cp": "<=:950",
-        "desc": "Viertbestes Stat-Produkt für Bisaknosp"
-    },
-    {
-        "monId": 2,
-        "ivAtk": "==:0",
-        "ivDef": "==:14",
-        "ivSta": "==:13",
-        "cp": "<=:1500",
-        "desc": "Viertbestes Stat-Produkt für Bisaknosp"
     },
     {
         "monId": 1,
@@ -69,7 +21,7 @@
         "ivDef": "==:14",
         "ivSta": "==:11",
         "cp": "<=:582",
-        "desc": "Perfektes Stat-Produkt für Bisaflor und das fünftneste Bisaknosp"
+        "desc": "Perfektes Stat-Produkt für Bisaflor"
     },
     {
         "monId": 2,
@@ -77,7 +29,7 @@
         "ivDef": "==:14",
         "ivSta": "==:11",
         "cp": "<=:913",
-        "desc": "Perfektes Stat-Produkt für Bisaflor und das fünftneste Bisaknosp"
+        "desc": "Perfektes Stat-Produkt für Bisaflor"
     },
     {
         "monId": 3,
@@ -88,102 +40,6 @@
         "desc": "Perfektes Stat-Produkt für Bisaflor"
     },
     {
-        "monId": 1,
-        "ivAtk": "==:0",
-        "ivDef": "==:12",
-        "ivSta": "==:13",
-        "cp": "<=:582",
-        "desc": "Zweitbeste Stat-Produkt für Bisaflor"
-    },
-    {
-        "monId": 2,
-        "ivAtk": "==:0",
-        "ivDef": "==:12",
-        "ivSta": "==:13",
-        "cp": "<=:913",
-        "desc": "Zweitbeste Stat-Produkt für Bisaflor"
-    },
-    {
-        "monId": 3,
-        "ivAtk": "==:0",
-        "ivDef": "==:12",
-        "ivSta": "==:13",
-        "cp": "<=:1498",
-        "desc": "Zweitbeste Stat-Produkt für Bisaflor"
-    },
-    {
-        "monId": 1,
-        "ivAtk": "==:0",
-        "ivDef": "==:15",
-        "ivSta": "==:10",
-        "cp": "<=:582",
-        "desc": "Drittbeste Stat-Produkt für Bisaflor"
-    },
-    {
-        "monId": 2,
-        "ivAtk": "==:0",
-        "ivDef": "==:15",
-        "ivSta": "==:10",
-        "cp": "<=:913",
-        "desc": "Drittbeste Stat-Produkt für Bisaflor"
-    },
-    {
-        "monId": 3,
-        "ivAtk": "==:0",
-        "ivDef": "==:15",
-        "ivSta": "==:10",
-        "cp": "<=:1498",
-        "desc": "Drittbeste Stat-Produkt für Bisaflor"
-    },
-    {
-        "monId": 1,
-        "ivAtk": "==:0",
-        "ivDef": "==:10",
-        "ivSta": "==:15",
-        "cp": "<=:582",
-        "desc": "Viertbeste Stat-Produkt für Bisaflor"
-    },
-    {
-        "monId": 2,
-        "ivAtk": "==:0",
-        "ivDef": "==:10",
-        "ivSta": "==:15",
-        "cp": "<=:913",
-        "desc": "Viertbeste Stat-Produkt für Bisaflor"
-    },
-    {
-        "monId": 3,
-        "ivAtk": "==:0",
-        "ivDef": "==:10",
-        "ivSta": "==:15",
-        "cp": "<=:1498",
-        "desc": "Viertbeste Stat-Produkt für Bisaflor"
-    },
-    {
-        "monId": 1,
-        "ivAtk": "==:3",
-        "ivDef": "==:15",
-        "ivSta": "==:14",
-        "cp": "<=:582",
-        "desc": "Fünftbeste Stat-Produkt für Bisaflor"
-    },
-    {
-        "monId": 2,
-        "ivAtk": "==:3",
-        "ivDef": "==:15",
-        "ivSta": "==:14",
-        "cp": "<=:913",
-        "desc": "Fünftbeste Stat-Produkt für Bisaflor"
-    },
-    {
-        "monId": 3,
-        "ivAtk": "==:3",
-        "ivDef": "==:15",
-        "ivSta": "==:14",
-        "cp": "<=:1498",
-        "desc": "Fünftbeste Stat-Produkt für Bisaflor"
-    },
-    {
         "monId": 4,
         "ivAtk": "==:0",
         "ivDef": "==:15",
@@ -208,102 +64,6 @@
         "desc": "Perfektes Stat-Produkt für Glurak"
     },
     {
-        "monId": 4,
-        "ivAtk": "==:0",
-        "ivDef": "==:13",
-        "ivSta": "==:15",
-        "cp": "<=:467",
-        "desc": "Zweitbeste Stat-Produkt für Glurak"
-    },
-    {
-        "monId": 5,
-        "ivAtk": "==:0",
-        "ivDef": "==:13",
-        "ivSta": "==:15",
-        "cp": "<=:814",
-        "desc": "Zweitbeste Stat-Produkt für Glurak"
-    },
-    {
-        "monId": 6,
-        "ivAtk": "==:0",
-        "ivDef": "==:13",
-        "ivSta": "==:15",
-        "cp": "<=:1462",
-        "desc": "Zweitbeste Stat-Produkt für Glurak"
-    },
-    {
-        "monId": 4,
-        "ivAtk": "==:1",
-        "ivDef": "==:15",
-        "ivSta": "==:11",
-        "cp": "<=:467",
-        "desc": "Drittbeste Stat-Produkt für Glurak"
-    },
-    {
-        "monId": 5,
-        "ivAtk": "==:1",
-        "ivDef": "==:15",
-        "ivSta": "==:11",
-        "cp": "<=:814",
-        "desc": "Drittbeste Stat-Produkt für Glurak"
-    },
-    {
-        "monId": 6,
-        "ivAtk": "==:1",
-        "ivDef": "==:15",
-        "ivSta": "==:11",
-        "cp": "<=:1462",
-        "desc": "Drittbeste Stat-Produkt für Glurak"
-    },
-    {
-        "monId": 4,
-        "ivAtk": "==:0",
-        "ivDef": "==:14",
-        "ivSta": "==:14",
-        "cp": "<=:467",
-        "desc": "Viertbeste Stat-Produkt für Glurak"
-    },
-    {
-        "monId": 5,
-        "ivAtk": "==:0",
-        "ivDef": "==:14",
-        "ivSta": "==:14",
-        "cp": "<=:814",
-        "desc": "Viertbeste Stat-Produkt für Glurak"
-    },
-    {
-        "monId": 6,
-        "ivAtk": "==:0",
-        "ivDef": "==:14",
-        "ivSta": "==:14",
-        "cp": "<=1462",
-        "desc": "Viertbeste Stat-Produkt für Glurak"
-    },
-    {
-        "monId": 4,
-        "ivAtk": "==:0",
-        "ivDef": "==:14",
-        "ivSta": "==:13",
-        "cp": "<=:467",
-        "desc": "Fünftbeste Stat-Produkt für Glurak"
-    },
-    {
-        "monId": 5,
-        "ivAtk": "==:0",
-        "ivDef": "==:14",
-        "ivSta": "==:13",
-        "cp": "<=:814",
-        "desc": "Fünftbeste Stat-Produkt für Glurak"
-    },
-    {
-        "monId": 6,
-        "ivAtk": "==:0",
-        "ivDef": "==:14",
-        "ivSta": "==:13",
-        "cp": "<=:1462",
-        "desc": "Fünftbeste Stat-Produkt für Glurak"
-    },
-    {
         "monId": 7,
         "ivAtk": "==:1",
         "ivDef": "==:15",
@@ -326,102 +86,6 @@
         "ivSta": "==:15",
         "cp": "<=:1498",
         "desc": "Perfektes Stat-Produkt für Turtok"
-    },
-    {
-        "monId": 7,
-        "ivAtk": "==:2",
-        "ivDef": "==:13",
-        "ivSta": "==:15",
-        "cp": "<=:541",
-        "desc": "Zweitbestes Stat-Produkt für Turtok"
-    },
-    {
-        "monId": 8,
-        "ivAtk": "==:2",
-        "ivDef": "==:13",
-        "ivSta": "==:15",
-        "cp": "<=:880",
-        "desc": "Zweitbestes Stat-Produkt für Turtok"
-    },
-    {
-        "monId": 9,
-        "ivAtk": "==:2",
-        "ivDef": "==:13",
-        "ivSta": "==:15",
-        "cp": "<=:1498",
-        "desc": "Zweitbestes Stat-Produkt für Turtok"
-    },
-    {
-        "monId": 7,
-        "ivAtk": "==:0",
-        "ivDef": "==:14",
-        "ivSta": "==:10",
-        "cp": "<=:541",
-        "desc": "Drittbeste Stat-Produkt für Turtok"
-    },
-    {
-        "monId": 8,
-        "ivAtk": "==:0",
-        "ivDef": "==:14",
-        "ivSta": "==:10",
-        "cp": "<=:880",
-        "desc": "Drittbeste Stat-Produkt für Turtok"
-    },
-    {
-        "monId": 9,
-        "ivAtk": "==:0",
-        "ivDef": "==:14",
-        "ivSta": "==:10",
-        "cp": "<=:1498",
-        "desc": "Drittbeste Stat-Produkt für Turtok"
-    },
-    {
-        "monId": 7,
-        "ivAtk": "==:1",
-        "ivDef": "==:14",
-        "ivSta": "==:15",
-        "cp": "<=:541",
-        "desc": "Viertbeste Stat-Produkt für Turtok"
-    },
-    {
-        "monId": 8,
-        "ivAtk": "==:1",
-        "ivDef": "==:14",
-        "ivSta": "==:15",
-        "cp": "<=:880",
-        "desc": "Viertbeste Stat-Produkt für Turtok"
-    },
-    {
-        "monId": 9,
-        "ivAtk": "==:1",
-        "ivDef": "==:14",
-        "ivSta": "==:15",
-        "cp": "<=:1498",
-        "desc": "Viertbeste Stat-Produkt für Turtok"
-    },
-    {
-        "monId": 7,
-        "ivAtk": "==:0",
-        "ivDef": "==:12",
-        "ivSta": "==:12",
-        "cp": "<=:541",
-        "desc": "Fünftbeste Stat-Produkt für Turtok"
-    },
-    {
-        "monId": 8,
-        "ivAtk": "==:0",
-        "ivDef": "==:12",
-        "ivSta": "==:12",
-        "cp": "<=:880",
-        "desc": "Fünftbeste Stat-Produkt für Turtok"
-    },
-    {
-        "monId": 9,
-        "ivAtk": "==:0",
-        "ivDef": "==:12",
-        "ivSta": "==:12",
-        "cp": "<=:1498",
-        "desc": "Fünftbeste Stat-Produkt für Turtok"
     },
     {
         "monId": 13,
@@ -517,6 +181,15 @@
     },
     {
         "monId": 27,
+        "ivAtk": "==:15",
+        "ivDef": "==:15",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "form": "kanto",
+        "desc": "Perfektes Stat-Produkt für Sandan"
+    },
+    {
+        "monId": 27,
         "ivAtk": "==:0",
         "ivDef": "==:14",
         "ivSta": "==:15",
@@ -574,6 +247,22 @@
         "ivSta": "==:12",
         "cp": "<=:1499",
         "desc": "Perfektes Stat-Produkt für Nidoqueen"
+    },
+    {
+        "monId": 32,
+        "ivAtk": "==:0",
+        "ivDef": "==:15",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Nidorino"
+    },
+    {
+        "monId": 33,
+        "ivAtk": "==:15",
+        "ivDef": "==:15",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Nidorino"
     },
     {
         "monId": 32,
@@ -701,6 +390,24 @@
     },
     {
         "monId": 50,
+        "ivAtk": "==:0",
+        "ivDef": "==:15",
+        "ivSta": "==:13",
+        "cp": "<=:1500",
+        "form": "kanto",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Digdri"
+    },
+    {
+        "monId": 51,
+        "ivAtk": "==:0",
+        "ivDef": "==:15",
+        "ivSta": "==:13",
+        "cp": "<=:1500",
+        "form": "kanto",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Digdri"
+    },
+    {
+        "monId": 50,
         "ivAtk": "==:7",
         "ivDef": "==:15",
         "ivSta": "==:15",
@@ -782,6 +489,22 @@
         "ivSta": "==:15",
         "cp": "<=:1500",
         "desc": "Perfektes Stat-Produkt für Arkani"
+    },
+    {
+        "monId": 60,
+        "ivAtk": "==:14",
+        "ivDef": "==:15",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Quaputzi"
+    },
+    {
+        "monId": 61,
+        "ivAtk": "==:14",
+        "ivDef": "==:15",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Quaputzi"
     },
     {
         "monId": 60,
@@ -1184,7 +907,23 @@
         "desc": "Perfektes Stat-Produkt für Lapras"
     },
     {
-        "monId": 138,
+        "monId": 132,
+        "ivAtk": "==:15",
+        "ivDef": "==:15",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Amonitas"
+    },
+    {
+        "monId": 132,
+        "ivAtk": "==:2",
+        "ivDef": "==:15",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Amonitas"
+    },
+    {
+        "monId": 132,
         "ivAtk": "==:0",
         "ivDef": "==:9",
         "ivSta": "==:15",
@@ -1192,7 +931,7 @@
         "desc": "Perfektes Stat-Produkt für Amoroso"
     },
     {
-        "monId": 139,
+        "monId": 133,
         "ivAtk": "==:0",
         "ivDef": "==:9",
         "ivSta": "==:15",
@@ -1407,6 +1146,22 @@
         "ivSta": "==:14",
         "cp": "<=:1500",
         "desc": "Perfektes Stat-Produkt für Blubella"
+    },
+    {
+        "monId": 183,
+        "ivAtk": "==:1",
+        "ivDef": "==:15",
+        "ivSta": "==:14",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Azumarill"
+    },
+    {
+        "monId": 184,
+        "ivAtk": "==:1",
+        "ivDef": "==:15",
+        "ivSta": "==:14",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Azumarill"
     },
     {
         "monId": 183,
@@ -2087,6 +1842,22 @@
     },
     {
         "monId": 300,
+        "ivAtk": "==:7",
+        "ivDef": "==:14",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Enecoro"
+    },
+    {
+        "monId": 301,
+        "ivAtk": "==:7",
+        "ivDef": "==:14",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Enecoro"
+    },
+    {
+        "monId": 300,
         "ivAtk": "==:15",
         "ivDef": "==:15",
         "ivSta": "==:15",
@@ -2100,6 +1871,14 @@
         "ivSta": "==:15",
         "cp": "<=:1500",
         "desc": "Perfektes Stat-Produkt für Enecoro"
+    },
+    {
+        "monId": 302,
+        "ivAtk": "==:9",
+        "ivDef": "==:14",
+        "ivSta": "==:14",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Zobiris"
     },
     {
         "monId": 302,
@@ -2156,6 +1935,22 @@
         "ivSta": "==:12",
         "cp": "<=:1500",
         "desc": "Perfektes Stat-Produkt für Stolloss"
+    },
+    {
+        "monId": 307,
+        "ivAtk": "==:13",
+        "ivDef": "==:15",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Meditalis"
+    },
+    {
+        "monId": 308,
+        "ivAtk": "==:13",
+        "ivDef": "==:15",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Meditalis"
     },
     {
         "monId": 307,
@@ -2335,6 +2130,15 @@
     },
     {
         "monId": 351,
+        "ivAtk": "==:0",
+        "ivDef": "==:14",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "form": "rainy",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Regen-Formeo"
+    },
+    {
+        "monId": 351,
         "ivAtk": "==:3",
         "ivDef": "==:14",
         "ivSta": "==:15",
@@ -2344,12 +2148,30 @@
     },
     {
         "monId": 351,
+        "ivAtk": "==:0",
+        "ivDef": "==:14",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "form": "sunny",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Sonnen-Formeo"
+    },
+    {
+        "monId": 351,
         "ivAtk": "==:3",
         "ivDef": "==:14",
         "ivSta": "==:15",
         "cp": "<=:1500",
         "form": "sunny",
         "desc": "Perfektes Stat-Produkt für Sonnen-Formeo"
+    },
+    {
+        "monId": 351,
+        "ivAtk": "==:0",
+        "ivDef": "==:14",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "form": "snowy",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Schnee-Formeo"
     },
     {
         "monId": 351,
@@ -2368,6 +2190,15 @@
         "cp": "<=:1500",
         "form": "normal",
         "desc": "Perfektes Stat-Produkt für Normal-Formeo"
+    },
+    {
+        "monId": 351,
+        "ivAtk": "==:0",
+        "ivDef": "==:14",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "form": "normal",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Normal-Formeo"
     },
     {
         "monId": 352,
@@ -2392,6 +2223,22 @@
         "ivSta": "==:15",
         "cp": "<=:1500",
         "desc": "Perfektes Stat-Produkt für Banette"
+    },
+    {
+        "monId": 355,
+        "ivAtk": "==:0",
+        "ivDef": "==:11",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Zwirrklopp"
+    },
+    {
+        "monId": 356,
+        "ivAtk": "==:0",
+        "ivDef": "==:11",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Zwirrklopp"
     },
     {
         "monId": 355,
@@ -2588,6 +2435,22 @@
     },
     {
         "monId": 410,
+        "ivAtk": "==:6",
+        "ivDef": "==:15",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Bollterus"
+    },
+    {
+        "monId": 411,
+        "ivAtk": "==:6",
+        "ivDef": "==:15",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Bollterus"
+    },
+    {
+        "monId": 410,
         "ivAtk": "==:12",
         "ivDef": "==:15",
         "ivSta": "==:15",
@@ -2601,6 +2464,25 @@
         "ivSta": "==:15",
         "cp": "<=:1500",
         "desc": "Perfektes Stat-Produkt für Bollterus"
+    },
+    {
+        "monId": 412,
+        "ivAtk": "==:0",
+        "ivDef": "==:13",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "form": "trash",
+        "gender": "f",
+        "desc": "Perfektes Stat-Produkt für KumpelLumpen-Burmadame"
+    },
+    {
+        "monId": 413,
+        "ivAtk": "==:0",
+        "ivDef": "==:13",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "form": "trash",
+        "desc": "Perfektes Stat-Produkt für Kumpel-Lumpen-Burmadame"
     },
     {
         "monId": 412,
@@ -2620,6 +2502,25 @@
         "cp": "<=:1500",
         "form": "trash",
         "desc": "Perfektes Stat-Produkt für Lumpen-Burmadame"
+    },
+    {
+        "monId": 412,
+        "ivAtk": "==:0",
+        "ivDef": "==:15",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "form": "sandy",
+        "gender": "f",
+        "desc": "Perfektes Stat-Produkt für Sand-Burmadame"
+    },
+    {
+        "monId": 413,
+        "ivAtk": "==:0",
+        "ivDef": "==:15",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "form": "sandy",
+        "desc": "Perfektes Stat-Produkt für Sand-Burmadame"
     },
     {
         "monId": 415,

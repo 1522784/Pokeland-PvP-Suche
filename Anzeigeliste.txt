@@ -7,6 +7,7 @@ Tauboss
 A-Rattikarl
 Raichu
 A-Raichu
+Sandan
 Sandamer
 A-Sandamer
 Nidoqueen
@@ -22,6 +23,7 @@ A-Digdri
 Entoron
 Rasaff
 Arkani
+Quaputzi
 Quappo
 Machomei
 Sarzenia
@@ -50,6 +52,7 @@ Chaneira
 Pantimos
 Garados
 Lapras
+Amonitas
 Amoroso
 Relaxo
 Dragonir
@@ -138,6 +141,7 @@ Staraptor
 Bidifas
 Bollterus
 Lumpen-Burmadame
+Sand-Burmadame
 Honweisel
 Gastrodon
 Drifzepeli
