@@ -1,0 +1,721 @@
+[
+  {
+    "monId": 1,
+    "ivAtk": "==:1",
+    "ivDef": "==:15",
+    "ivSta": "==:14",
+    "cp": "<=:2500",
+    "desc": "Perfektes Stat-Produkt für Bisalor"
+  },
+  {
+    "monId": 2,
+    "ivAtk": "==:1",
+    "ivDef": "==:15",
+    "ivSta": "==:14",
+    "cp": "<=:2500",
+    "desc": "Perfektes Stat-Produkt für Bisalor"
+    },
+    {
+      "monId": 3,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Bisalor"
+    },
+    {
+      "monId": 4,
+      "ivAtk": "==:0",
+      "ivDef": "==:13",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Glurak"
+    },
+    {
+      "monId": 5,
+      "ivAtk": "==:0",
+      "ivDef": "==:13",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Glurak"
+    },
+    {
+      "monId": 6,
+      "ivAtk": "==:0",
+      "ivDef": "==:13",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Glurak"
+    },
+    {
+      "monId": 7,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Turtok"
+    },
+    {
+      "monId": 8,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Turtok"
+    },
+    {
+      "monId": 9,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Turtok"
+    },
+    {
+      "monId": 35,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Pixi"
+    },
+    {
+      "monId": 36,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Pixi"
+    },
+    {
+      "monId": 66,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:1001",
+      "desc": "Perfektes Stat-Produkt für Machomei"
+    },
+    {
+      "monId": 67,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:1628",
+      "desc": "Perfektes Stat-Produkt für Machomei"
+    },
+    {
+      "monId": 68,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Machomei"
+    },
+    {
+      "monId": 88,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "form": "alola",
+      "desc": "Perfektes Stat-Produkt für A-Sleimok"
+    },
+    {
+      "monId": 89,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "form": "alola",
+      "desc": "Perfektes Stat-Produkt für A-Sleimok"
+    },
+    {
+      "monId": 88,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "form": "alola",
+      "desc": "Perfektes Stat-Produkt für A-Sleimok"
+    },
+    {
+      "monId": 89,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "form": "alola",
+      "desc": "Perfektes Stat-Produkt für A-Sleimok"
+    },
+    {
+      "monId": 92,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:1044",
+      "desc": "Perfektes Stat-Produkt für Gengar"
+    },
+    {
+      "monId": 93,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:1689",
+      "desc": "Perfektes Stat-Produkt für Gengar"
+    },
+    {
+      "monId": 94,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Gengar"
+    },
+    {
+      "monId": 95,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Stahlos"
+    },
+    {
+      "monId": 114,
+      "ivAtk": "==:0",
+      "ivDef": "==:14",
+      "ivSta": "==:15",
+      "cp": "<=:1827",
+      "desc": "Perfektes Stat-Produkt für Tangoloss"
+    },
+    {
+      "monId": 116,
+      "ivAtk": "==:4",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Seedraking"
+    },
+    {
+      "monId": 116,
+      "ivAtk": "==:2",
+      "ivDef": "==:14",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Kumpel-Seedraking"
+    },
+    {
+      "monId": 117,
+      "ivAtk": "==:4",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Seedraking"
+    },
+    {
+      "monId": 117,
+      "ivAtk": "==:2",
+      "ivDef": "==:14",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Kumpel-Seedraking"
+    },
+    {
+      "monId": 129,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:141",
+      "desc": "Perfektes Stat-Produkt für Garados"
+    },
+    {
+      "monId": 130,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Garados"
+    },
+    {
+      "monId": 131,
+      "ivAtk": "==:6",
+      "ivDef": "==:15",
+      "ivSta": "==:13",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Lapras"
+    },
+    {
+      "monId": 143,
+      "ivAtk": "==:0",
+      "ivDef": "==:12",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Relaxo"
+    },
+    {
+      "monId": 147,
+      "ivAtk": "==:0",
+      "ivDef": "==:13",
+      "ivSta": "==:15",
+      "cp": "<=:618",
+      "desc": "Perfektes Stat-Produkt für Dragoran"
+    },
+    {
+      "monId": 148,
+      "ivAtk": "==:0",
+      "ivDef": "==:13",
+      "ivSta": "==:15",
+      "cp": "<=:1133",
+      "desc": "Perfektes Stat-Produkt für Dragoran"
+    },
+    {
+      "monId": 149,
+      "ivAtk": "==:0",
+      "ivDef": "==:13",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Dragoran"
+    },
+    {
+      "monId": 152,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Meganie"
+    },
+    {
+      "monId": 153,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Meganie"
+    },
+    {
+      "monId": 154,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Meganie"
+    },
+    {
+      "monId": 155,
+      "ivAtk": "==:0",
+      "ivDef": "==:13",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Tornupto"
+    },
+    {
+      "monId": 156,
+      "ivAtk": "==:0",
+      "ivDef": "==:13",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Tornupto"
+    },
+    {
+      "monId": 157,
+      "ivAtk": "==:0",
+      "ivDef": "==:13",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Tornupto"
+    },
+    {
+      "monId": 158,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Impergator"
+    },
+    {
+      "monId": 159,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Impergator"
+    },
+    {
+      "monId": 160,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Impergator"
+    },
+    {
+      "monId": 173,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Pixi"
+    },
+    {
+      "monId": 175,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:430",
+      "desc": "Perfektes Stat-Produkt für Togekiss"
+    },
+    {
+      "monId": 176,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:1233",
+      "desc": "Perfektes Stat-Produkt für Togekiss"
+    },
+    {
+      "monId": 207,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Skorgro"
+    },
+    {
+      "monId": 207,
+      "ivAtk": "==:0",
+      "ivDef": "==:14",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Kumpel-Skorgro"
+    },
+    {
+      "monId": 208,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Stahlos"
+    },
+    {
+      "monId": 209,
+      "ivAtk": "==:10",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Granbull"
+    },
+    {
+      "monId": 209,
+      "ivAtk": "==:9",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Kumpel-Granbull"
+    },
+    {
+      "monId": 210,
+      "ivAtk": "==:10",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Granbull"
+    },
+    {
+      "monId": 210,
+      "ivAtk": "==:9",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Kumpel-Granbull"
+    },
+    {
+      "monId": 214,
+      "ivAtk": "==:0",
+      "ivDef": "==:14",
+      "ivSta": "==:13",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Skaraborn"
+    },
+    {
+      "monId": 230,
+      "ivAtk": "==:4",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Seedraking"
+    },
+    {
+      "monId": 230,
+      "ivAtk": "==:2",
+      "ivDef": "==:14",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Kumpel-Seedraking"
+    },
+    {
+      "monId": 255,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Lohgock"
+    },
+    {
+      "monId": 256,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Lohgock"
+    },
+    {
+      "monId": 257,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Lohgock"
+    },
+    {
+      "monId": 258,
+      "ivAtk": "==:0",
+      "ivDef": "==:14",
+      "ivSta": "==:13",
+      "cp": "<=:904",
+      "desc": "Perfektes Stat-Produkt für Sumpex"
+    },
+    {
+      "monId": 259,
+      "ivAtk": "==:0",
+      "ivDef": "==:14",
+      "ivSta": "==:13",
+      "cp": "<=:1457",
+      "desc": "Perfektes Stat-Produkt für Sumpex"
+    },
+    {
+      "monId": 260,
+      "ivAtk": "==:0",
+      "ivDef": "==:14",
+      "ivSta": "==:13",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Sumpex"
+    },
+    {
+      "monId": 280,
+      "ivAtk": "==:0",
+      "ivDef": "==:12",
+      "ivSta": "==:15",
+      "cp": "<=:383",
+      "gender": "m",
+      "desc": "Perfektes Stat-Produkt für Galagladi"
+    },
+    {
+      "monId": 281,
+      "ivAtk": "==:0",
+      "ivDef": "==:12",
+      "ivSta": "==:15",
+      "cp": "<=:730",
+      "gender": "m",
+      "desc": "Perfektes Stat-Produkt für Galagladi"
+    },
+    {
+      "monId": 296,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:676",
+      "desc": "Perfektes Stat-Produkt für Hariyama"
+    },
+    {
+      "monId": 297,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Hariyama"
+    },
+    {
+      "monId": 349,
+      "ivAtk": "==:0",
+      "ivDef": "==:13",
+      "ivSta": "==:15",
+      "cp": "<=:161",
+      "desc": "Perfektes Stat-Produkt für Milotic"
+    },
+    {
+      "monId": 350,
+      "ivAtk": "==:0",
+      "ivDef": "==:13",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Milotic"
+    },
+    {
+      "monId": 353,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Banette"
+    },
+    {
+      "monId": 354,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Banette"
+    },
+    {
+      "monId": 393,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:878",
+      "desc": "Perfektes Stat-Produkt für Impoleon"
+    },
+    {
+      "monId": 394,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:1430",
+      "desc": "Perfektes Stat-Produkt für Impoleon"
+    },
+    {
+      "monId": 395,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Impoleon"
+    },
+    {
+      "monId": 446,
+      "ivAtk": "==:0",
+      "ivDef": "==:12",
+      "ivSta": "==:15",
+      "cp": "<=:1366",
+      "desc": "Perfektes Stat-Produkt für Relaxo"
+    },
+    {
+      "monId": 453,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Toxiuak"
+    },
+    {
+      "monId": 453,
+      "ivAtk": "==:13",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Kumpel-Toxiuak"
+    },
+    {
+      "monId": 454,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Toxiuak"
+    },
+    {
+      "monId": 454,
+      "ivAtk": "==:13",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Kumpel-Toxiuak"
+    },
+    {
+      "monId": 465,
+      "ivAtk": "==:0",
+      "ivDef": "==:14",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Tangoloss"
+    },
+    {
+      "monId": 468,
+      "ivAtk": "==:0",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Togekiss"
+    },
+    {
+      "monId": 472,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Skorgro"
+    },
+    {
+      "monId": 472,
+      "ivAtk": "==:0",
+      "ivDef": "==:14",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Kumpel-Skorgro"
+    },
+    {
+      "monId": 475,
+      "ivAtk": "==:0",
+      "ivDef": "==:12",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "gender": "m",
+      "desc": "Perfektes Stat-Produkt für Galagladi"
+    },
+    {
+      "monId": 588,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:985",
+      "desc": "Perfektes Stat-Produkt für Cavalanzas"
+    },
+    {
+      "monId": 589,
+      "ivAtk": "==:1",
+      "ivDef": "==:15",
+      "ivSta": "==:14",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Cavalanzas"
+    },
+    {
+      "monId": 592,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Apoquallyp"
+    },
+    {
+      "monId": 593,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Apoquallyp"
+    },
+    {
+      "monId": 629,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Grypheldis"
+    },
+    {
+      "monId": 630,
+      "ivAtk": "==:15",
+      "ivDef": "==:15",
+      "ivSta": "==:15",
+      "cp": "<=:2500",
+      "desc": "Perfektes Stat-Produkt für Grypheldis"
+    },
+  ]
