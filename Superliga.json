@@ -620,14 +620,6 @@
     },
     {
         "monId": 81,
-        "ivAtk": "==:15",
-        "ivDef": "==:15",
-        "ivSta": "==:15",
-        "cp": "<=:1500",
-        "desc": "Perfektes Stat-Produkt für Magnetilo"
-    },
-    {
-        "monId": 81,
         "ivAtk": "==:0",
         "ivDef": "==:15",
         "ivSta": "==:15",
