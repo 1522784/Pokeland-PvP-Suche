@@ -2508,6 +2508,14 @@
         "desc": "Perfektes Stat-Produkt für Honweisel"
     },
     {
+        "monId": 421,
+        "ivAtk": "==:0",
+        "ivDef": "==:13",
+        "ivSta": "==:15",
+        "cp": "<=:1500",
+        "desc": "Perfektes Stat-Produkt für Kinoso"
+    },
+    {
         "monId": 422,
         "ivAtk": "==:1",
         "ivDef": "==:15",
