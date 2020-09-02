@@ -3598,7 +3598,7 @@
         "monId": 226,
         "ivAtk": "==:0",
         "ivDef": "==:15",
-        "ivSta": "==:9",
+        "ivSta": "==:7",
         "cp": "<=:1500",
         "desc": "BP: Mantax schlägt Max-Attack-Forstellka"
     },
